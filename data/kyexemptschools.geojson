@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asbury University",
+        "enrollment": 1854,
+        "accreditation": "SACSCOC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.663711,
+          37.863092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asbury Theological Seminary",
+        "enrollment": 1639,
+        "accreditation": "SACSCOC AND Commission on Accrediting of the Association of Theological Schools"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.660302,
+          37.861974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clear Creek Baptist Bible College",
+        "enrollment": 209,
+        "accreditation": "Association for Biblical Higher Education AND SACSCOC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.72981,
+          36.725306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kentucky Mountain Bible College",
+        "enrollment": 89,
+        "accreditation": "Association for Biblical Higher Education" 
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.441134,
+          37.603389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University of the Cumberlands",
+        "enrollment": 2655,
+        "accreditation": "SACSCOC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          [-84.163489, 37.737631]
+        ]
+      }
+    }
+  ]
+}
