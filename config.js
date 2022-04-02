@@ -68,13 +68,13 @@ var config = {
             id: 'AsburyUniversity2',
             alignment: 'left',
             hidden: false,
-            title: `<a href="https://www.campuspride.org/wp-content/uploads/asbury-university-response-08292016.pdf">Click here to view full exemption letter.</a>`,
+            title: '<a href="https://www.campuspride.org/wp-content/uploads/asbury-university-response-08292016.pdf">Click here to view full exemption letter.</a>',
             image: 'images/asbury-1.png',
             description: `The letter states that Asbury University has requested and been granted Title IX exemptions as related to "adultery, homosexual behavior, premarital sexual intimacy...[and] elective abortion.<br><br>Asbury's Statement on Human Sexuality says, "We believe that the sin of sexual immorality (e.g., pre-marital sexual behavior, adultery for the
                 heterosexually married person, polygamy, polyandry, pornography, incest, and all forms of
                 same-sex practice) is about the behavior...We do not surrender the
                 biblical standard of sexual purity to the prevailing secular culture, nor the definition of “male”
-                and “female” to mean something more or different than a individual’s sex at birth."<br><br>Most puzzling is that a breech of these policies is "almost certain to lead to separation from the university," yet Christianity is markedly not a requirement for admission.`,
+                and “female” to mean something more or different than a individual’s sex at birth."<br><br>Most puzzling is that a breech of these policies is "almost certain to lead to separation from the university," yet Christianity is markedly not a requirement for admission. '<a href="https://www.campuspride.org/wp-content/uploads/asbury-university-response-08292016.pdf">Click here to view full exemption letter.</a>',`,
             location: {
                 center: [-84.663711, 37.863092],
                 zoom: 14,
@@ -98,9 +98,9 @@ var config = {
             id: 'ATS',
             alignment: 'right',
             hidden: false,
-            title: "In January 2017, Asbury Theological Seminary, across the street, also received Title IX exemption status. You can view the letter <a href='https://www.campuspride.org/wp-content/uploads/asbury-theological-seminary-response-011817.pdf'>here</a>.<br><br>Both Asbury Theological Seminary and Asbury University are accredited by The Southern Association of Colleges and Schools Commission on Colleges (SACSCOC). All colleges listed on this page receive federal funding and tax-payer money.",
+            title: "",
+            description: "In January 2017, Asbury Theological Seminary, across the street, also received Title IX exemption status. You can view the letter <a href='https://www.campuspride.org/wp-content/uploads/asbury-theological-seminary-response-011817.pdf'>here</a>.<br><br>Both Asbury Theological Seminary and Asbury University are accredited by The Southern Association of Colleges and Schools Commission on Colleges (SACSCOC). All colleges listed on this page receive federal funding and tax-payer money.",
             // image: 'images/target.svg',
-            description: '',
             location: {
                 center: [-84.663711, 37.863092],
                 zoom: 14,
